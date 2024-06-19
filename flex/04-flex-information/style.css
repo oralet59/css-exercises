@@ -10,6 +10,26 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.plant-pot {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  padding: 50px;
+}
+
+.text {
+  text-align: center;
+}
+
+.plant {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
 }
 
 /* do not edit this footer */
